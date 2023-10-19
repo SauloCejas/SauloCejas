@@ -1,13 +1,8 @@
-<div align="center">
-<h1 aling="center"> Hello there 👋<h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saulocl/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Saulo-blue?logo=linkedin" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/saulocl/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Saulo-blue?logo=linkedin" /></a>
-<!--
-</div>
-<a href="https://imgur.com/cD24dbt"><img src="https://i.imgur.com/cD24dbt.png" title="source: imgur.com" /></a>
--->
-</div>
-Hello, My name is Saulo.
+Hello there 👋, my name is Saulo.
 
 - :fire: I’m currently working on data analyst, primarily focused on Business Intelligence projects, especially using Power BI. I also work on data engineering projects on the Azure platform, such as Azure Synapse Analytics and Azure Data Factory.
 
@@ -19,7 +14,15 @@ Hello, My name is Saulo.
 
 - ⚡ Fun fact: I study quantity surveyor :construction_worker: and began my professional career very closely tied to direct client sales for 7 years. This experience has allowed me to develop commercial skills applicable to project development.
 
-<br>
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="600">
+</p>
+<!--
+<div align="center">
+<h1 aling="center"> Hello there 👋<h1>
+</div>
+<a href="https://imgur.com/cD24dbt"><img src="https://i.imgur.com/cD24dbt.png" title="source: imgur.com" /></a>
+-->
 <!--
 <p align="center">
 <a href="https://github.com/SauloCejas">
@@ -28,6 +31,3 @@ Hello, My name is Saulo.
 </a>
 </p>
 -->
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="600">
-</p>
