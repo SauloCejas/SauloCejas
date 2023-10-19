@@ -1,4 +1,4 @@
-<!--<div align="center">-->
+<div align="center">
 <h1 aling="center"> Hello there 👋<h1>
 
 <a href="https://www.linkedin.com/in/saulocl/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Saulo-blue?logo=linkedin" /></a>
@@ -7,8 +7,6 @@
 <a href="https://imgur.com/cD24dbt"><img src="https://i.imgur.com/cD24dbt.png" title="source: imgur.com" /></a>
 -->
 </div>
-## Sobre mi
-
 Hello, My name is Saulo.
 
 - :fire: I’m currently working on data analyst, primarily focused on Business Intelligence projects, especially using Power BI. I also work on data engineering projects on the Azure platform, such as Azure Synapse Analytics and Azure Data Factory.
