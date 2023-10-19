@@ -1,6 +1,8 @@
 <div align="center">
 <h1 aling="center"> Hello there 👋, my name is Saulo</h1>
+
 <a href="https://www.linkedin.com/in/saulocl/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Saulo-blue?logo=linkedin" /></a>
+</p>
 
 <a href="https://imgur.com/cD24dbt"><img src="https://i.imgur.com/cD24dbt.png" title="source: imgur.com" /></a>
 <!--
