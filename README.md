@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/saulocl/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Saulo-blue?logo=linkedin" /></a>
 
-</p>
+</div>
 
 <a href="https://imgur.com/cD24dbt"><img src="https://i.imgur.com/cD24dbt.png" title="source: imgur.com" /></a>
 
@@ -22,29 +22,14 @@ Hello, My name is Saulo.
 - ⚡ Fun fact: I study quantity surveyor :construction_worker: and began my professional career very closely tied to direct client sales for 7 years. This experience has allowed me to develop commercial skills applicable to project development.
 
 <br>
-
+<!--
 <p align="center">
 <a href="https://github.com/SauloCejas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SauloCejas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SauloCejas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+-->
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="600">
 </p>
-
-<!--
-**SauloCejas/SauloCejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
