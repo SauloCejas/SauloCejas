@@ -4,7 +4,7 @@
 
 Hello there 👋, my name is Saulo.
 
-- :fire: I’m currently working as a Senior Data Analyst at EY | FAAS Tech. (Primarily focused on Business Intelligence projects, especially using Power BI. I also work on data engineering projects on the Azure platform, such as Azure Synapse Analytics and Azure Data Factory)
+- :fire: I’m currently working as a Senior Data Analytics & Data Engineer at EY - Digital Finance. (Primarily focused on Business Intelligence projects, especially using Power BI. I also work on data engineering projects on the Azure platform, such as Azure Synapse Analytics and Azure Data Factory)
 
 - :snowflake: I'm passionate about data and have been continuously learning for over 5 years. Currently, I'm focused on expanding my knowledge as a data scientist with the goal of applying artificial intelligence in my projects.
 
